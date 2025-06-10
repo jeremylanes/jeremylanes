@@ -37,5 +37,5 @@
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeremy-lane&show_icons=true&theme=radical" alt="Jeremy's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeremylanes17&show_icons=true&theme=radical" alt="Jeremy's GitHub Stats">
 </p>
