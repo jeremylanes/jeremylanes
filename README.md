@@ -29,9 +29,9 @@
 
 <h2>📫 Reach Me</h2>
 <p>
-  <a href="mailto:jeremy@example.com">📧 jeremy@example.com</a><br>
-  <a href="https://linkedin.com/in/jeremy-lane" target="_blank">💼 LinkedIn</a><br>
-  <a href="https://jeremylane.dev" target="_blank">🌐 jeremylane.dev</a>
+  <a href="mailto:jeremylanes17@gmail.com">📧 jeremylanes17@gmail.com</a><br>
+<!--   <a href="https://linkedin.com/in/jeremy-lane" target="_blank">💼 LinkedIn</a><br> -->
+  <a href="https://jeremy.berlin" target="_blank">🌐 jeremy.berlin</a>
 </p>
 
 <hr>
