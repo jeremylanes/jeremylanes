@@ -29,7 +29,7 @@
 
 <h2>📫 Reach Me</h2>
 <p>
-  <a href="mailto:jeremylanes17@gmail.com">📧 jeremylanes17@gmail.com</a><br>
+  <a href="mailto:jeremy@tune.cd">📧 jeremy@tune.cd</a><br>
 <!--   <a href="https://linkedin.com/in/jeremy-lane" target="_blank">💼 LinkedIn</a><br> -->
   <a href="https://jeremy.berlin" target="_blank">🌐 www.jeremy.berlin</a>
 </p>
